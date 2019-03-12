@@ -38,10 +38,10 @@ UML是用于描述分析与设计结果的简单、高效的标准图表语言�
 
 ### 看板使用练习
 
-![看板](https://github.com/CastleOnTheHill/SYSU-SWSAD-Homework/tree/master/HW2/KanBan.png)
+![看板](https://github.com/CastleOnTheHill/SYSU-SWSAD-Homework/blob/master/HW2/KanBan.png?raw=true)
 
 ### UML绘图工具练习 
 
-![UML_fig](https://github.com/CastleOnTheHill/SYSU-SWSAD-Homework/tree/master/HW2/fig_9_2.png)
+![UML_fig](https://github.com/CastleOnTheHill/SYSU-SWSAD-Homework/blob/master/HW2/fig_9_2.png?raw=true)
 
 图片来源： *UML和设计模式应用（原书第3版）* P100. 图9-2
